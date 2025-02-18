@@ -1,0 +1,11 @@
+{
+    "description": "this subdomain is for an about me/testing website ",
+    "repo": "https://github.com/St4r-lol/register",
+    "owner": {
+        "username": "St4r-lol",
+        "email": "me@example.com"
+    },
+    "record": {
+        "CNAME": "st4r-lol.github.io"
+    }
+}
